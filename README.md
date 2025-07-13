@@ -6,7 +6,7 @@ Berikut adalah tugas dan jawaban dari **Anggota Kelompok 4**
 | --- | --- | --- |
 | 1. | Bavari Muhammad Waldan | 9.029.DB2025 |
 | 2. | Deka Isnadi | 9.037.DB2025 |
-| 3. | Firmansyah | 10.049.DB2025 |
+| 3. | Farhansyah | 10.049.DB2025 |
 | 4. | Maksum | 9.045.DB2025 |
 
 ## 📖 1. Pendahuluan
